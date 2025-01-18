@@ -12,10 +12,14 @@ This application will allow the user to create or select a vehicle (either car, 
 1) Clone this repo onto your local computer using 'git clone'. 2) Make sure you have node.js installed on your local computer.  Visit Node.js at https://nodejs.org/en/download/ and download the version you need. 3)  Make sure to install the dependencies needed for the application to work by typing 'npm install' in integrated terminal. 4) Answer the questions for each prompt.
 ## Usage
 In order to use this application, after typing 'npm install', type 'npm start'.  Simply answer the questions and navigate the menu using the arrow keys on your keyboard.
-[Untitled Video January 18, 2025 12_53 PM.webm](https://github.com/user-attachments/assets/77df735f-80f9-4861-b91f-af68779cb28a)
+
+
+
+https://github.com/user-attachments/assets/8483a701-81c8-412c-bed8-6bd7ee8a6e9a
+
 
 ## License
-    This project is licensed under the MIT license. [MIT](https://opensource.org/licenses/MIT)
+   This project is licensed under the MIT license. [MIT](https://opensource.org/licenses/MIT)
 ## Contributing
 Assistance was provided by the TA's in using the await/async functionality.  They were also able to troubleshoot coding errors. (Andrea P.) Additionally, Copilot was used to help with debugging.  If you would like to contribute to the project please see contact information in the Questions section below. 
 ## Tests
