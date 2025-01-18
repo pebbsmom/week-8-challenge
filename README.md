@@ -15,7 +15,11 @@ In order to use this application, after typing 'npm install', type 'npm start'. 
 
 
 
-https://github.com/user-attachments/assets/8483a701-81c8-412c-bed8-6bd7ee8a6e9a
+
+
+
+https://github.com/user-attachments/assets/11dce010-50f2-4e96-9f2a-89fed4abbce3
+
 
 
 ## License
